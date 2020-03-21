@@ -1,0 +1,19 @@
+body {
+  background-image: url(imagen_fondo.jpg);
+  background-size: cover;
+  margin: auto;
+}
+.mi_foto{
+  margin: 100px;
+  height: 1100px;
+  width:  1000px;
+  border-radius: 700px;
+  border-style: solid;
+  border-color: white;
+  border-width: 5px;
+}
+h1{
+  font-size: 150px;
+  font-family: Helvetica;
+  color: white;
+}
